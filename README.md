@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Sahil Hemanth Deshmukh!
+Welcome to my GitHub profile! I am passionate about data analytics, machine learning, and predictive modeling.
 
-<!--
-**SahilDeshmukh1/SahilDeshmukh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- **Programming**: Python, R, SQL
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch
+- **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau
+- **Other Tools**: Git, Jupyter, VS Code
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+- [**Handwritten Digit Recognition**](https://github.com/SahilDeshmukh1/handwritten-digit-recognition): Built and compared KNN and Neural Network models to classify MNIST digits.
+- [**Investing in Nashville**](https://github.com/SahilDeshmukh1/investing-in-nashville-prediction): Used Gradient Boosting to classify undervalued properties in Nashville.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sahil-hemanth-deshmukh)
+
+
+## 📊 GitHub Stats
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilDeshmukh1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilDeshmukh1&layout=compact&theme=radical)
