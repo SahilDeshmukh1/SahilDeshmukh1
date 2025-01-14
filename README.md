@@ -31,6 +31,13 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 ## 📫 Connect with Me
 - **LinkedIn**: [Sahil Hemant Deshmukh](https://www.linkedin.com/in/sahildeshmukh10)
 
+---
+
+## 🚀 What I'm Currently Learning
+- Advanced **TensorFlow** for deep learning.
+- Building scalable pipelines on **AWS**.
+- Advanced SQL query optimization.
+
 
 ---
 
@@ -38,17 +45,7 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilDeshmukh1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilDeshmukh1&layout=compact&theme=radical)
 
----
 
-## 📫 Connect with Me
-- **LinkedIn**: [Sahil Hemant Deshmukh](https://www.linkedin.com/in/sahildeshmukh10)
-
-
-
-## 🚀 What I'm Currently Learning
-- Advanced **TensorFlow** for deep learning.
-- Building scalable pipelines on **AWS**.
-- Advanced SQL query optimization.
 
 ---
 
