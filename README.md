@@ -24,8 +24,9 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 ---
 
 ## 🌟 Featured Projects
-- [**Investing in Nashville**](https://github.com/SahilDeshmukh1/investing-in-nashville-prediction): Classified undervalued properties using Gradient Boosting with a focus on real estate investment strategies.
-- [**Marketing Campaign Analysis**](https://github.com/SahilDeshmukh1/marketing-campaign-analysis): Analyzed campaign data to optimize budget allocation and improve ROI through predictive modeling.
+- [**Investing in Nashville**](https://github.com/SahilDeshmukh1/Investing-in-Nashville_Prediction): Classified undervalued properties using Gradient Boosting with a focus on real estate investment strategies.
+- [**Marketing Campaign Analysis**](https://github.com/SahilDeshmukh1/Marketing-Campaign-Analysis): Analyzed campaign data to optimize budget allocation and improve ROI through predictive modeling.
+
 
 ---
 
