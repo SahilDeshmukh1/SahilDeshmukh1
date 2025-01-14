@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 - [**Marketing Campaign Analysis**](https://github.com/SahilDeshmukh1/Marketing-Campaign-Analysis): Analyzed campaign data to optimize budget allocation and improve ROI through predictive modeling.
 - [**Investing in Nashville**](https://github.com/SahilDeshmukh1/Investing-in-Nashville_Prediction): Classified undervalued properties using Gradient Boosting with a focus on real estate investment strategies.
 
+---
+## 📫 Connect with Me
+- **LinkedIn**: [Sahil Hemant Deshmukh](https://www.linkedin.com/in/sahildeshmukh10)
 
 
 ---
@@ -41,7 +44,6 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 - **LinkedIn**: [Sahil Hemant Deshmukh](https://www.linkedin.com/in/sahildeshmukh10)
 
 
----
 
 ## 🚀 What I'm Currently Learning
 - Advanced **TensorFlow** for deep learning.
