@@ -1,10 +1,17 @@
 # Hi there 👋, I'm Sahil Hemant Deshmukh!
 
-Welcome to my GitHub profile! I am passionate about data analytics, machine learning, and predictive modeling. Here, you’ll find my projects, contributions, and tools that demonstrate my skills and interests.
+Welcome to my GitHub profile! I am passionate about data analytics, machine learning,business intelligence and predictive modeling. Here, you’ll find my projects, contributions, and tools that demonstrate my skills and interests.
 
 ---
 
 ## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik](https://img.shields.io/badge/Qlik-42B029?style=for-the-badge&logo=qlik&logoColor=white)
+
 ### Programming & Tools
 - **Languages**: `SQL`, `Python`, `R`
 - **Data Manipulation & Analysis**: `Pandas`, `NumPy`
