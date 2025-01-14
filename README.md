@@ -41,13 +41,5 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 
 ---
 
-## 📊 GitHub Stats
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilDeshmukh1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilDeshmukh1&layout=compact&theme=radical)
-
-
-
----
-
 ## ✨ Fun Fact
 I love exploring how data shapes our world and creating intuitive dashboards to tell compelling stories. Beyond coding, I enjoy playing soccer and travelling to new places!
