@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Sahil Hemant Deshmukh](www.linkedin.com/in/sahildeshmukh10)
+- **LinkedIn**: [Sahil Hemant Deshmukh](https://www.linkedin.com/in/sahildeshmukh10)
 
 
 ---
